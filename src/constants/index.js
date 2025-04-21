@@ -313,7 +313,7 @@ const navLinks = [
     {
       name: "portfolio",
       imgPath: "/logo.jpg",
-      url:"shivaninagda.github.io/shivani_Portfolio",
+      url:"https://shivaninagda.github.io/shivani_Portfolio/",
       classname:"fas fa-project"
     },
     
