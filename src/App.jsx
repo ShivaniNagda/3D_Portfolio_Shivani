@@ -18,8 +18,6 @@ function App() {
     <Navbar />
      <Hero />
      <ShowcaseSection />
-    
-    
      <ExperienceSection />
      <TechStack />
      <LogoSection />

@@ -11,10 +11,10 @@ const navLinks = [
       name: "Skills",
       link: "#skills",
     },
-    {
-      name: "Projects",
-      link: "#work",
-    },
+    // {
+    //   name: "Projects",
+    //   link: "#work",
+    // },
     // {
     //   name: "Contacts",
     //   link: "#contact",
@@ -177,7 +177,7 @@ const navLinks = [
       title: "Teaching Assistant (Coding Ninjas)",
       date: "November 2024 - Present",
       responsibilities: [
-        "Resolved over 1400+ student doubts across Data Structures, JavaScript, and MERN Stack topics.",
+        "Resolved over 1400+ student doubts across FrontEnd(HTML , CSS , JavaScript) and Backend(Nodejs, Express, Mongodb , Mongoose...) topics.",
         "Mentored 639+ students by providing personalized guidance on assignments and concepts.",
         "Evaluated 165+ projects, offering constructive feedback to help improve code quality.",
       ],
@@ -187,7 +187,7 @@ const navLinks = [
       imgPath: "/images/bharat_intern_logo.jpg",
       logoPath: "/images/bharat_intern_logo.jpg", 
       title: "Full Stack Developer (Bharat Intern)",
-      date: "August 2024 - October 2024",
+      date: "October 2023 - November 2023",
       responsibilities: [
         "Built a feature-rich video conferencing app and weather app using React and Firebase.",
         "Created a responsive Netflix clone with seamless routing and API integration.",
@@ -199,7 +199,7 @@ const navLinks = [
       imgPath: "/images/latter 001 (2) - Copy.jpg", 
       logoPath: "/images/latter 001 (2) - Copy.jpg", 
       title: "Administrator (Shrijee College)",
-      date: "2019 - 2020",
+      date: "Feb 2020 - Oct 2023",
       responsibilities: [
         "Managed daily administrative tasks, ensuring smooth operations of the college.",
         "Coordinated between students, faculty, and the administration to ensure timely communication.",

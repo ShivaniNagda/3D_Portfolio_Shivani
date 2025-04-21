@@ -81,7 +81,7 @@ section {
   }
 
   .hero-layout {
-    @apply relative z-10 xl:mt-20 mt-32 md:h-dvh h-[80vh] flex xl:items-center items-start justify-center;
+    @apply relative z-10 xl:mt-20 mt-32 md:h-dvh h-[80vh] flex xl:items-center items-start justify-center ;
   }
 
   .hero-text {
@@ -99,7 +99,7 @@ section {
   }
 
   .hero-3d-layout {
-    @apply xl:w-[70%] w-full h-full min-h-[50vh] absolute xl:-top-20 top-24 xl:-right-20 right-0 ;
+    @apply xl:w-[70%] w-full h-full min-h-[50vh] absolute xl:-top-20 top-24 xl:-right-20 right-0 max-[1250px]:-mt-60 max-[1250px]:right-0 max-[1250px]:left-70 max-[768px]:right-0 max-[768px]:left-0 max-[768px]:mt-0;
   }
 
   .navbar {

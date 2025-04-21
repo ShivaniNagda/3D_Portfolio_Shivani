@@ -26,9 +26,9 @@ const Hero = () => {
         <img src="/images/bg.png" alt="background" />
       </div>
 
-      <div className="hero-layout">
+      <div className="hero-layout mb-15 h-160">
         {/* Left : Hero content */}
-        <header className="flex flex-col justify-center md-full w-screen md:px-20 px-5">
+        <header className="flex flex-col justify-center md-full w-screen md:px-20 px-5 ">
           <div className="flex flex-col gap-7">
             <div className="hero-text">
               <h1>
@@ -61,7 +61,7 @@ const Hero = () => {
         </header>
         {/* Right : 3D Model */}
         <figure>
-          <div className="hero-3d-layout mt-20" >
+          <div className="hero-3d-layout max-[640px]:top-45 pt-10" >
           
             <HeroExperience />
             
