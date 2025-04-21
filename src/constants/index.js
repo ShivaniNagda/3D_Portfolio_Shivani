@@ -189,7 +189,7 @@ const navLinks = [
       title: "Full Stack Developer (Bharat Intern)",
       date: "October 2023 - November 2023",
       responsibilities: [
-        "Built a feature-rich video conferencing app and weather app using React and Firebase.",
+        "Built a feature-rich video conferencing app and weather app.",
         "Created a responsive Netflix clone with seamless routing and API integration.",
         "Worked with Node.js, Express, and MongoDB to implement backend functionalities and APIs.",
       ],
