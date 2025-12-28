@@ -48,6 +48,14 @@ const ShowcaseSection = () => {
             <div className="image-wrapper">
               <img src="/images/Project1EcomWebApp.png" alt="Ecom Web App Image" />
             </div>
+             <a
+            href="https://e-commerce-store-afj4.onrender.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="see-more-link text-center mt-4 block text-lg animate-pulse  text-blue-400"
+          >
+            🔗 View Live Project
+          </a>
             <div className="text-content">
               <h2>
               Elevate Your Shopping Experience with Our Seamless, User-Friendly eCommerce App
@@ -64,6 +72,14 @@ const ShowcaseSection = () => {
               <div className="image-wrapper bg-[#ffefdb]">
                 <img src="/images/Project2-Auth.png" alt="_Auth Verification" />
               </div>
+                              <a
+            href="https://e-commerce-store-afj4.onrender.com/"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="see-more-link text-center mt-4 block text-lg animate-pulse  text-blue-400"
+          >
+            🔗 View Live Project
+          </a>
               <h2>🔐 MERN Auth System with Email Verification</h2>
 
             </div>
