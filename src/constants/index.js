@@ -161,7 +161,7 @@ const navLinks = [
     //   rotation: [0, 0, 0],
     // },
     {
-      name: "Core Java",
+      name: "Java + DSA",
       modelPath: "/models/java.glb",
       scale: 1,
       rotation: [0, 0, 0],
@@ -174,7 +174,7 @@ const navLinks = [
       review: "Shivani’s contributions as a Teaching Assistant at Coding Ninjas have significantly impacted student learning outcomes. Her ability to clarify complex topics and offer personalized support has made her a reliable mentor.",
       imgPath: "/images/codingninjas_logo.jpg",
       logoPath: "/images/codingninjas_logo.jpg", 
-      title: "Teaching Assistant (Coding Ninjas)",
+      title: "Mentor / Teaching Assistant (Coding Ninjas)",
       date: "November 2024 - Present",
       responsibilities: [
         "Resolved over 1400+ student doubts across FrontEnd(HTML , CSS , JavaScript) and Backend(Nodejs, Express, Mongodb , Mongoose...) topics.",
